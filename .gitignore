@@ -1,0 +1,6 @@
+clock
+.depend
+*.swp
+*.swo
+*~
+*.o
