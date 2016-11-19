@@ -1,12 +1,29 @@
-Usage:
-```bash
-make
-./clock
-./clock slide
-./clock blue
-./clock red
-./clock slide red
-```
+# This is how it looks
 
-You can also find the demostration pictures [here](http://madmuggle.me/articles/TermClock_C.html)
+### the basic
+```shell
+clock
+```
+![](./TermClock_C_1.gif)
+
+### slide
+```shell
+clock slide
+```
+![](./TermClock_C_2.gif)
+
+### change color
+```shell
+clock yellow
+clock blue
+clock red
+```
+![](./TermClock_C_3.gif)
+
+### you can combine the functions
+```shell
+clock red slide
+```
+![](./TermClock_C_4.gif)
+
 
