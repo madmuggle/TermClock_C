@@ -2,8 +2,6 @@
 #define __UTILS_H__
 
 
-void p_exit(const char *s, ...);
+void p_exit (const char *s, ...);
 
 #endif
-
-

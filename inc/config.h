@@ -4,5 +4,3 @@
 #define NUMBER_WIDTH 9
 
 #endif
-
-
